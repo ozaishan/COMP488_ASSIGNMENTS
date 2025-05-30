@@ -2,3 +2,7 @@
 **/__pycache__/**
 .ipynb_checkpoints/
 data/
+projections/
+word2vec.model*
+doc2vec.model*
+
