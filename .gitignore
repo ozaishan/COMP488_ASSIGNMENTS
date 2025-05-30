@@ -6,5 +6,4 @@ projections/
 word2vec.model*
 doc2vec.model*
 
-"doc2vec.model*" 
-"word2vec.model*" 
+
